@@ -14,7 +14,9 @@ __How to do the exploit once you have the sd card/usb with aurora and sh1mmer le
 7. you can now sign in with your personal email
 8. if it prompts you to update wait 10 seconds and there should be a "skip for now" option in the bottom right corner
 9. profit. you are now sh1ttyoobed, or I should say, "sh1ttybr0kered"
-produced by [Insecure Badroom](https://insecurebadroom.pages.dev) [the site is down rn]. We "don't like" securly or securly classroom
+produced by [Insecure Badroom](https://insecurebadroom.pages.dev) [the site is down rn]. We "don't like" securly or securly classroom.
+
+
 **tested on a kv5/kv4 lenovo 500e chromebook gen 3 
 simple terms: "non-keyrolled dedede"**
 creds:
